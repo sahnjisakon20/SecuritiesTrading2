@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SecuritiesTrading</string>
+    <string name="activity_title">股票清單</string>
+    <string name="text_default_data">—</string>
+    <string name="text_openingPrice">開盤價：</string>
+    <string name="text_highestPrice">最高價：</string>
+    <string name="text_change">漲跌價差：</string>
+    <string name="text_transaction">成交筆數：</string>
+    <string name="text_tradeVolume">成交股數：</string>
+    <string name="text_closingPrice">收盤價：</string>
+    <string name="text_lowestPrice">最低價：</string>
+    <string name="text_monthlyAverage">月平均：</string>
+    <string name="text_tradeValue">成交金額：</string>
+    <string name="text_sort_method">排序方式</string>
+    <string name="text_sort_ascending">升序（由小到大）</string>
+    <string name="text_sort_descending">降序（由大到小）</string>
+    <string name="text_detail_data">詳細資訊</string>
+    <string name="text_peRatio">本益比（PE）：</string>
+    <string name="text_dividendYield">殖利率（%）：</string>
+    <string name="text_pbRatio">股價淨值比（PB）：</string>
+    <string name="text_dialog_confirm">確定</string>
+</resources>
